@@ -1,6 +1,6 @@
 async function others() {
   try {
-    const module = await import("./function_composition/index");
+    const module = await import("./composition_function/index");
 
     const full = module.compose(123);
     console.log(full);
