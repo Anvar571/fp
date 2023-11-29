@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "baseUrl": "/",
+    "target": "ES2021",
+    "esModuleInterop": true,
+    "allowJs": true
+  }
+}
