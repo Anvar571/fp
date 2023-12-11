@@ -23,3 +23,10 @@ console.log(two(1)(2));
 console.log(one(2));
 console.log(one(5));
 
+// ================
+// example
+// const sumCurry = (x: number) => {
+//   return 
+// };
+
+// const res = sumCurry(12)(3)(2);
